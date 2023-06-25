@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+---
+
 ### 🤝 Социальные сети:
 
   <div id="badges">
@@ -9,10 +11,27 @@
     <a href="https://vk.com/jazzpunk8103" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
-    <!-- <a href="https://dzen.ru/tehnomaniak" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Yandex_Zen_logo_icon.svg/1024px-Yandex_Zen_logo_icon.svg.png" width="40" height="40" alt="Zen Badge"/>
-    </a> -->
   </div>
+
+---
+
+### 💻 Технологии:
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="django" alt="django" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
+</div>
+
+---
+
+### 🛠 Инструменты:
+
+<div>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+</div>
+
+---
 
 ### 💻 Codewars:
 
