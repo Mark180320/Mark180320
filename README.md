@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### 💻 Codewars:
+
+![codewars](https://www.codewars.com/users/Mark180320/badges/large)
+
 <!--
 **Mark180320/Mark180320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
